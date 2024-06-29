@@ -1,0 +1,1211 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Закон Хаббла — Википедия</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"393dc22d-914e-41f2-9b58-6b31eccfe712","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Закон_Хаббла","wgTitle":"Закон Хаббла","wgCurRevisionId":127911055,"wgRevisionId":127911055,"wgArticleId":40052,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (заменить webcitation-архив: deadlink no)","Википедия:Cite web (не указан язык)","Страницы, использующие волшебные ссылки ISBN",
+"Космология","Именные законы и правила"],"wgPageViewLanguage":"ru","wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Закон_Хаббла","wgRelevantArticleId":40052,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoticeProject":"wikipedia","wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":127911055,"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":6,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgULSCurrentAutonym":"русский","wgCentralAuthMobileDomain":false,"wgEditSubmitButtonLabelPublish":true,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,
+"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q179916","wgCheckUserClientHintsHeadersJsApi":["architecture","bitness","brands","fullVersionList","mobile","model","platform","platformVersion"],"GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false,"wgGELevelingUpEnabledForUser":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","ext.math.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","codex-search-styles":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready","ext.wikimediaBadges":
+"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mediawiki.page.media","mediawiki.toggleAllCollapsibles","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.flaggedRevs.advanced","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.urlShortener.toolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.echo.centralauth","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.checkUser.clientHints","ext.quicksurveys.init","ext.growthExperiments.SuggestedEditSession","oojs-ui.styles.icons-media","oojs-ui-core.icons"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=codex-search-styles%7Cext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector">
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector">
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"></noscript>
+<meta name="generator" content="MediaWiki 1.42.0-wmf.14">
+<meta name="referrer" content="origin">
+<meta name="referrer" content="origin-when-cross-origin">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="viewport" content="width=1000">
+<meta property="og:title" content="Закон Хаббла — Википедия">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="//upload.wikimedia.org">
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0">
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;action=edit">
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png">
+<link rel="icon" href="/static/favicon/wikipedia.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)">
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd">
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0">
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">
+<link rel="alternate" type="application/atom+xml" title="Википедия — Atom-лента" href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8&amp;feed=atom">
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org">
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Закон_Хаббла rootpage-Закон_Хаббла skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Закон Хаббла</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="ru" dir="ltr"><p><b>Зако́н Ха́ббла</b> (или <b>закон Хаббла — Леметра</b><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>, закон всеобщего разбегания галактик)&#160;— <a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Космология">космологический</a> закон, описывающий <a href="/wiki/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9" title="Расширение Вселенной">расширение Вселенной</a>. В статьях и научной литературе в зависимости от её специализации и даты публикаций он формулируется по-разному<sup id="cite_ref-zasopostnov_rubakov_vainberg_2-0" class="reference"><a href="#cite_note-zasopostnov_rubakov_vainberg-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>.
+</p><p>Классическое определение:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle v=H_{0}r,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>v</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mi>r</mi>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle v=H_{0}r,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cc1a89ad9dc0e864d1874122186b5ae025a83448" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:8.907ex; height:2.509ex;" alt="{\displaystyle v=H_{0}r,}"></span></dd></dl>
+<p>где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle v}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>v</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle v}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e07b00e7fc0847fbd16391c778d65bc25c452597" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.128ex; height:1.676ex;" alt="v"></span>&#160;— скорость галактики, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle r}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>r</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.049ex; height:1.676ex;" alt="r"></span>&#160;— расстояние до неё, а <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H_{0}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H_{0}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/43910602a221b7a4c373791f94793e3008622070" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:2.985ex; height:2.509ex;" alt="H_{0}"></span>&#160;— коэффициент пропорциональности, сегодня называемый <a href="/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0" title="Постоянная Хаббла">постоянной Хаббла</a>.
+</p><p>Однако в современных работах наблюдателей эта зависимость принимает вид
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle cz=H_{0}r,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>c</mi>
+        <mi>z</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mi>r</mi>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle cz=H_{0}r,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b4c999ba7f81c4d85d98cd2df63061f6bde2bb2f" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:9.874ex; height:2.509ex;" alt="{\displaystyle cz=H_{0}r,}"></span></dd></dl>
+<p>где <i>с</i>&#160;— скорость света, а <i>z</i>&#160;— <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5_%D1%81%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5" title="Красное смещение">красное смещение</a>. Также, последнее является стандартным обозначением расстояния во всех современных космологических работах.
+</p><p>Третий вид закона Хаббла можно встретить в теоретических публикациях:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H={\frac {{\dot {a}}(t_{1})}{a(t_{1})}},}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>H</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>a</mi>
+                    <mo>&#x02D9;<!-- ˙ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mi>a</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H={\frac {{\dot {a}}(t_{1})}{a(t_{1})}},}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bf1d977358ff12c34671bd885b7d0e7cd75c857c" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.671ex; width:11.578ex; height:6.509ex;" alt="{\displaystyle H={\frac {{\dot {a}}(t_{1})}{a(t_{1})}},}"></span></dd></dl>
+<p>где <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ffd2487510aa438433a2579450ab2b3d557e5edc" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.23ex; height:1.676ex;" alt="a"></span>&#160;— масштабный фактор, зависящий только от времени, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\dot {a}}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>a</mi>
+              <mo>&#x02D9;<!-- ˙ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\dot {a}}}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c9167337d4bf7b72b9099d7d5714497cda8643ca" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.338ex; width:1.23ex; height:2.176ex;" alt="{\displaystyle {\dot {a}}}"></span>&#160;— его производная по времени.
+</p><p>Закон Хаббла является одним из основных наблюдаемых фактов в <a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Космология">космологии</a>. С его помощью можно примерно оценить время расширения Вселенной (так называемый Хаббловский возраст <a href="/wiki/%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F" title="Вселенная">Вселенной</a>):
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle t_{H}={\frac {r}{V}}={\frac {1}{H_{0}}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>H</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mi>r</mi>
+            <mi>V</mi>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mn>1</mn>
+            <msub>
+              <mi>H</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>0</mn>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle t_{H}={\frac {r}{V}}={\frac {1}{H_{0}}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/63d4954efffe598ba9580ea853b2c08cb07b2c4f" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.338ex; width:15.82ex; height:5.676ex;" alt="t_{H}={\frac  {r}{V}}={\frac  {1}{H_{0}}}."></span></dd></dl>
+<p>Эта величина с точностью до численного множителя порядка единицы соответствует возрасту Вселенной, рассчитываемому по <a href="/wiki/%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A4%D1%80%D0%B8%D0%B4%D0%BC%D0%B0%D0%BD%D0%B0" title="Вселенная Фридмана">стандартной космологической модели Фридмана</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История_открытия"><span class="tocnumber">1</span> <span class="toctext">История открытия</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Теоретическая_интерпретация_наблюдений"><span class="tocnumber">2</span> <span class="toctext">Теоретическая интерпретация наблюдений</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Оценка_постоянной_Хаббла_и_её_физический_смысл"><span class="tocnumber">3</span> <span class="toctext">Оценка постоянной Хаббла и её физический смысл</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Аналоги_закона_Хаббла_в_других_областях_астрофизики"><span class="tocnumber">4</span> <span class="toctext">Аналоги закона Хаббла в других областях астрофизики</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#См._также"><span class="tocnumber">5</span> <span class="toctext">См. также</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Примечания"><span class="tocnumber">6</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Ссылки"><span class="tocnumber">7</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D0.BE.D1.82.D0.BA.D1.80.D1.8B.D1.82.D0.B8.D1.8F"></span><span class="mw-headline" id="История_открытия">История открытия</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;veaction=edit&amp;section=1" title="Редактировать раздел «История открытия»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;action=edit&amp;section=1" title="Редактировать код раздела «История открытия»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<figure class="mw-halign-left" typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:%D0%9E%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/ru/thumb/3/36/%D0%9E%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0.png/320px-%D0%9E%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0.png" decoding="async" width="320" height="206" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/3/36/%D0%9E%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0.png/480px-%D0%9E%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0.png 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/3/36/%D0%9E%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0.png/640px-%D0%9E%D1%80%D0%B8%D0%B3%D0%B8%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0.png 2x" data-file-width="724" data-file-height="465" /></a><figcaption>График из оригинальной работы <a href="/wiki/%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB,_%D0%AD%D0%B4%D0%B2%D0%B8%D0%BD_%D0%9F%D0%B0%D1%83%D1%8D%D0%BB%D0%BB" class="mw-redirect" title="Хаббл, Эдвин Пауэлл">Хаббла</a> <a href="/wiki/1929_%D0%B3%D0%BE%D0%B4" title="1929 год">1929 года</a></figcaption></figure>
+<p>В 1913—1914 годах американский астроном <a href="/wiki/%D0%A1%D0%BB%D0%B0%D0%B9%D1%84%D0%B5%D1%80,_%D0%92%D0%B5%D1%81%D1%82%D0%BE_%D0%9C%D0%B5%D0%BB%D0%B2%D0%B8%D0%BD" title="Слайфер, Весто Мелвин">Весто Слайфер</a> установил, что <a href="/wiki/%D0%93%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0_%D0%90%D0%BD%D0%B4%D1%80%D0%BE%D0%BC%D0%B5%D0%B4%D1%8B" title="Галактика Андромеды">Туманность Андромеды</a> и ещё более десятка небесных объектов движутся относительно Солнечной системы с огромными скоростями (порядка 1000&#160;км/с). Это означало, что все они находятся за пределами <a href="/wiki/%D0%93%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0" title="Галактика">Галактики</a> (ранее многие астрономы полагали, что туманности представляют собой формирующиеся в нашей Галактике планетные системы). Другой важный результат: все исследованные Слайфером туманности, кроме трёх, удалялись от Солнечной системы. В 1917—1922 годах Слайфер получил дополнительные данные, подтвердившие, что скорость почти всех внегалактических туманностей направлена прочь от Солнца. <a href="/wiki/%D0%90%D1%80%D1%82%D1%83%D1%80_%D0%AD%D0%B4%D0%B4%D0%B8%D0%BD%D0%B3%D1%82%D0%BE%D0%BD" class="mw-redirect" title="Артур Эддингтон">Артур Эддингтон</a> на основе обсуждавшихся в те годы <a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Космология">космологических</a> моделей <a href="/wiki/%D0%9E%D0%B1%D1%89%D0%B0%D1%8F_%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8" title="Общая теория относительности">Общей теории относительности</a> предположил, что этот факт отражает общий природный закон: <a href="/wiki/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9" title="Расширение Вселенной">Вселенная расширяется</a>, и чем дальше от нас астрономический объект, тем больше его относительная скорость.
+</p><p>Вид закона для расширения Вселенной был установлен экспериментально для галактик бельгийским учёным <a href="/wiki/%D0%9B%D0%B5%D0%BC%D0%B5%D1%82%D1%80,_%D0%96%D0%BE%D1%80%D0%B6" title="Леметр, Жорж">Жоржем Леметром</a> в <a href="/wiki/1927_%D0%B3%D0%BE%D0%B4" title="1927 год">1927 году</a><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>, а позже&#160;— знаменитым <a href="/wiki/%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB,_%D0%AD%D0%B4%D0%B2%D0%B8%D0%BD_%D0%9F%D0%B0%D1%83%D1%8D%D0%BB%D0%BB" class="mw-redirect" title="Хаббл, Эдвин Пауэлл">Э. Хабблом</a> в <a href="/wiki/1929_%D0%B3%D0%BE%D0%B4" title="1929 год">1929 году</a> с помощью 100-дюймового (254 см) телескопа обсерватории <a href="/wiki/%D0%9C%D0%B0%D1%83%D0%BD%D1%82-%D0%92%D0%B8%D0%BB%D1%81%D0%BE%D0%BD" title="Маунт-Вилсон">Маунт-Вилсон</a>, который позволил разрешить ближайшие галактики на звезды. Среди них были <a href="/wiki/%D0%A6%D0%B5%D1%84%D0%B5%D0%B8%D0%B4%D1%8B" title="Цефеиды">цефеиды</a>, используя зависимость «период&#160;— светимость» которых, Хаббл измерил расстояние до них, а также <a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5_%D1%81%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5" title="Красное смещение">красное смещение</a> галактик, позволяющее определить их радиальную скорость.
+</p><p>Полученный Хабблом коэффициент пропорциональности составлял около 500&#160;км/с на мега<a href="/wiki/%D0%9F%D0%B0%D1%80%D1%81%D0%B5%D0%BA" title="Парсек">парсек</a>. Современное значение составляет по разным оценкам <span class="nowrap">74,03 ± 1,42 (км/с)/Мпк</span><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> или <span class="nowrap">67,4 ± 0,5 (км/с)/Мпк</span><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>. Столь существенное отличие от результатов Э. Хаббла обеспечивают два фактора: отсутствие поправки нуль-пункта зависимости «период&#160;— светимость» на поглощение (которое тогда ещё не было открыто) и существенный вклад собственных скоростей в общую скорость для местной группы галактик<sup id="cite_ref-efremov_8-0" class="reference"><a href="#cite_note-efremov-8">&#91;8&#93;</a></sup>.
+</p>
+<h2><span id=".D0.A2.D0.B5.D0.BE.D1.80.D0.B5.D1.82.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B0.D1.8F_.D0.B8.D0.BD.D1.82.D0.B5.D1.80.D0.BF.D1.80.D0.B5.D1.82.D0.B0.D1.86.D0.B8.D1.8F_.D0.BD.D0.B0.D0.B1.D0.BB.D1.8E.D0.B4.D0.B5.D0.BD.D0.B8.D0.B9"></span><span class="mw-headline" id="Теоретическая_интерпретация_наблюдений">Теоретическая интерпретация наблюдений</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;veaction=edit&amp;section=2" title="Редактировать раздел «Теоретическая интерпретация наблюдений»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;action=edit&amp;section=2" title="Редактировать код раздела «Теоретическая интерпретация наблюдений»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A4%D1%80%D0%B8%D0%B4%D0%BC%D0%B0%D0%BD%D0%B0" title="Вселенная Фридмана">Вселенная Фридмана</a></b></div>
+<figure class="mw-halign-right" typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Hubble_invar.gif" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/ru/thumb/4/4e/Hubble_invar.gif/450px-Hubble_invar.gif" decoding="async" width="450" height="203" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/ru/4/4e/Hubble_invar.gif 1.5x" data-file-width="638" data-file-height="288" /></a><figcaption>График, иллюстрирующий независимость закона Хаббла от положения галактики, из которой производится наблюдение. Слева: точка наблюдения&#160;— галактика А, справа: точка наблюдения&#160;— галактика В</figcaption></figure>
+<p>Современное объяснение наблюдений даётся в рамках Вселенной Фридмана.
+Допустим есть источник, расположенный в сопутствующей системе на расстоянии <style data-mw-deduplicate="TemplateStyles:r117753614">.mw-parser-output .ts-math{white-space:nowrap;font-family:times,serif,palatino linotype,new athena unicode,athena,gentium,code2000;font-size:120%}</style><span class="ts-math"><i>r</i><sub>1</sub></span> от наблюдателя. Приёмная аппаратура наблюдателя регистрирует фазу приходящей волны. Рассмотрим два интервала между точками с одной и той же фазой<sup id="cite_ref-zasopostnov_rubakov_vainberg_2-1" class="reference"><a href="#cite_note-zasopostnov_rubakov_vainberg-2">&#91;2&#93;</a></sup>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {\delta t_{1}}{\delta t_{0}}}={\frac {\nu _{0}}{\nu _{1}}}\equiv 1+z.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>&#x03B4;<!-- δ --></mi>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi>&#x03B4;<!-- δ --></mi>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>0</mn>
+                </mrow>
+              </msub>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <msub>
+              <mi>&#x03BD;<!-- ν --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>0</mn>
+              </mrow>
+            </msub>
+            <msub>
+              <mi>&#x03BD;<!-- ν --></mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>1</mn>
+              </mrow>
+            </msub>
+          </mfrac>
+        </mrow>
+        <mo>&#x2261;<!-- ≡ --></mo>
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>z</mi>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {\delta t_{1}}{\delta t_{0}}}={\frac {\nu _{0}}{\nu _{1}}}\equiv 1+z.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b785e369c7f76c7d16a07b341d3a17e05304e5d" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.338ex; width:18.752ex; height:5.843ex;" alt="{\displaystyle {\frac {\delta t_{1}}{\delta t_{0}}}={\frac {\nu _{0}}{\nu _{1}}}\equiv 1+z.}"></span></dd></dl>
+<p>С другой стороны, для световой волны в <a href="/wiki/%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A4%D1%80%D0%B8%D0%B4%D0%BC%D0%B0%D0%BD%D0%B0#Метрика_Фридмана_—_Робертсона_—_Уокера" title="Вселенная Фридмана">принятой метрике</a> выполняется равенство
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle dt=\pm a(t){\frac {dr}{\sqrt {1-kr^{2}}}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>d</mi>
+        <mi>t</mi>
+        <mo>=</mo>
+        <mo>&#x00B1;<!-- ± --></mo>
+        <mi>a</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>d</mi>
+              <mi>r</mi>
+            </mrow>
+            <msqrt>
+              <mn>1</mn>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>k</mi>
+              <msup>
+                <mi>r</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </msqrt>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle dt=\pm a(t){\frac {dr}{\sqrt {1-kr^{2}}}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1dbd30d765b2a2c1267384546cbc5bc352276b7d" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -3.171ex; width:21.965ex; height:6.676ex;" alt="{\displaystyle dt=\pm a(t){\frac {dr}{\sqrt {1-kr^{2}}}}.}"></span></dd></dl>
+<p>Проинтегрировав это уравнение, получим
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \int \limits _{t_{0}}^{t_{1}}{\frac {dt}{a(t)}}=\int \limits _{0}^{r_{c}}{\frac {dr}{\sqrt {1-kr^{2}}}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <munderover>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msub>
+              <mi>t</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>0</mn>
+              </mrow>
+            </msub>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msub>
+              <mi>t</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mn>1</mn>
+              </mrow>
+            </msub>
+          </mrow>
+        </munderover>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>d</mi>
+              <mi>t</mi>
+            </mrow>
+            <mrow>
+              <mi>a</mi>
+              <mo stretchy="false">(</mo>
+              <mi>t</mi>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <munderover>
+          <mo>&#x222B;<!-- ∫ --></mo>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+          <mrow class="MJX-TeXAtom-ORD">
+            <msub>
+              <mi>r</mi>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mi>c</mi>
+              </mrow>
+            </msub>
+          </mrow>
+        </munderover>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>d</mi>
+              <mi>r</mi>
+            </mrow>
+            <msqrt>
+              <mn>1</mn>
+              <mo>&#x2212;<!-- − --></mo>
+              <mi>k</mi>
+              <msup>
+                <mi>r</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>2</mn>
+                </mrow>
+              </msup>
+            </msqrt>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \int \limits _{t_{0}}^{t_{1}}{\frac {dt}{a(t)}}=\int \limits _{0}^{r_{c}}{\frac {dr}{\sqrt {1-kr^{2}}}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0628e10a27f65ffd9867fcfd36cdaf04a302067e" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -4.338ex; margin-left: -0.17ex; width:24.701ex; height:9.676ex;" alt="{\displaystyle \int \limits _{t_{0}}^{t_{1}}{\frac {dt}{a(t)}}=\int \limits _{0}^{r_{c}}{\frac {dr}{\sqrt {1-kr^{2}}}}.}"></span></dd></dl>
+<p>Учитывая что в сопутствующих координатах <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117753614"><span class="ts-math" style="font-style:italic;">r</span> не зависит от времени, а также малость длины волны относительно радиуса кривизны Вселенной, получим соотношение
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle {\frac {\delta t_{1}}{a(t_{1})}}={\frac {\delta t_{0}}{a(t_{0})}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>&#x03B4;<!-- δ --></mi>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi>a</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>&#x03B4;<!-- δ --></mi>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>0</mn>
+                </mrow>
+              </msub>
+            </mrow>
+            <mrow>
+              <mi>a</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>0</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle {\frac {\delta t_{1}}{a(t_{1})}}={\frac {\delta t_{0}}{a(t_{0})}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bd7dac2ff1fb18d76e7be2b095f83ad4a10d035a" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.671ex; width:15.283ex; height:6.176ex;" alt="{\displaystyle {\frac {\delta t_{1}}{a(t_{1})}}={\frac {\delta t_{0}}{a(t_{0})}}.}"></span></dd></dl>
+<p>Если теперь его подставить в первоначальное соотношение, то
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle 1+z={\frac {a(t_{0})}{a(t_{1})}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>1</mn>
+        <mo>+</mo>
+        <mi>z</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mi>a</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>0</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mi>a</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 1+z={\frac {a(t_{0})}{a(t_{1})}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d99c64a34234f1a982c873dd73c72d51252441d3" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.671ex; width:14.605ex; height:6.509ex;" alt="{\displaystyle 1+z={\frac {a(t_{0})}{a(t_{1})}}.}"></span></dd></dl>
+<p>Разложим <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117753614"><span class="ts-math"><i>a</i>(<i>t</i>)</span> в <a href="/wiki/%D0%A0%D1%8F%D0%B4_%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80%D0%B0" title="Ряд Тейлора">ряд Тейлора</a> с центром в точке <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117753614"><span class="ts-math"><i>a</i>(<i>t</i><sub>1</sub>)</span> и учтём члены только первого порядка:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle a(t)=a(t_{1})+{\dot {a}}(t_{1})(t-t_{1}).}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>a</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>a</mi>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>+</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD">
+            <mover>
+              <mi>a</mi>
+              <mo>&#x02D9;<!-- ˙ --></mo>
+            </mover>
+          </mrow>
+        </mrow>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a(t)=a(t_{1})+{\dot {a}}(t_{1})(t-t_{1}).}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8abd00a9b88e7ab21302a1fded1219588b611174" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:27.714ex; height:2.843ex;" alt="{\displaystyle a(t)=a(t_{1})+{\dot {a}}(t_{1})(t-t_{1}).}"></span></dd></dl>
+<p>После приведения членов и домножения на <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117753614"><span class="ts-math" style="font-style:italic;">c</span>:
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle cz={\frac {{\dot {a}}(t_{1})}{a(t_{1})}}c(t-t_{1})=HD.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>c</mi>
+        <mi>z</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>a</mi>
+                    <mo>&#x02D9;<!-- ˙ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mi>a</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mi>c</mi>
+        <mo stretchy="false">(</mo>
+        <mi>t</mi>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <mi>H</mi>
+        <mi>D</mi>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle cz={\frac {{\dot {a}}(t_{1})}{a(t_{1})}}c(t-t_{1})=HD.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/40b0c42a2945c6adb10c075756db9ad8a40fc473" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.671ex; width:27.086ex; height:6.509ex;" alt="{\displaystyle cz={\frac {{\dot {a}}(t_{1})}{a(t_{1})}}c(t-t_{1})=HD.}"></span></dd></dl>
+<p>Соответственно, константа Хаббла
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle H={\frac {{\dot {a}}(t_{1})}{a(t_{1})}}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>H</mi>
+        <mo>=</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mfrac>
+            <mrow>
+              <mrow class="MJX-TeXAtom-ORD">
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mover>
+                    <mi>a</mi>
+                    <mo>&#x02D9;<!-- ˙ --></mo>
+                  </mover>
+                </mrow>
+              </mrow>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+            <mrow>
+              <mi>a</mi>
+              <mo stretchy="false">(</mo>
+              <msub>
+                <mi>t</mi>
+                <mrow class="MJX-TeXAtom-ORD">
+                  <mn>1</mn>
+                </mrow>
+              </msub>
+              <mo stretchy="false">)</mo>
+            </mrow>
+          </mfrac>
+        </mrow>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle H={\frac {{\dot {a}}(t_{1})}{a(t_{1})}}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c0bd4c707133eebc93f3e3bd6b8e46d634444291" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -2.671ex; width:11.578ex; height:6.509ex;" alt="{\displaystyle H={\frac {{\dot {a}}(t_{1})}{a(t_{1})}}.}"></span></dd></dl>
+<h2><span id=".D0.9E.D1.86.D0.B5.D0.BD.D0.BA.D0.B0_.D0.BF.D0.BE.D1.81.D1.82.D0.BE.D1.8F.D0.BD.D0.BD.D0.BE.D0.B9_.D0.A5.D0.B0.D0.B1.D0.B1.D0.BB.D0.B0_.D0.B8_.D0.B5.D1.91_.D1.84.D0.B8.D0.B7.D0.B8.D1.87.D0.B5.D1.81.D0.BA.D0.B8.D0.B9_.D1.81.D0.BC.D1.8B.D1.81.D0.BB"></span><span class="mw-headline" id="Оценка_постоянной_Хаббла_и_её_физический_смысл">Оценка постоянной Хаббла и её физический смысл</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;veaction=edit&amp;section=3" title="Редактировать раздел «Оценка постоянной Хаббла и её физический смысл»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;action=edit&amp;section=3" title="Редактировать код раздела «Оценка постоянной Хаббла и её физический смысл»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable">Основные статьи: <b><a href="/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0" title="Постоянная Хаббла">Постоянная Хаббла</a></b> и <b><a href="/wiki/%D0%A8%D0%BA%D0%B0%D0%BB%D0%B0_%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B9" class="mw-redirect" title="Шкала расстояний">Шкала расстояний</a></b></div>
+<figure class="mw-halign-center" typeof="mw:File/Thumb"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Hubbleconstants_color.png" class="mw-file-description"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hubbleconstants_color.png/900px-Hubbleconstants_color.png" decoding="async" width="900" height="310" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hubbleconstants_color.png/1350px-Hubbleconstants_color.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hubbleconstants_color.png/1800px-Hubbleconstants_color.png 2x" data-file-width="2884" data-file-height="992" /></a><figcaption>Наиболее известные оценки и измерения постоянной Хаббла за последние 20 лет</figcaption></figure>
+<p>В процессе расширения, если оно происходит равномерно, постоянная Хаббла должна уменьшаться, и индекс «0» при её обозначении указывает на то, что величина <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117753614"><span class="ts-math"><i>Н</i><sub>0</sub></span> относится к современной эпохе. Величина, обратная постоянной Хаббла, должна быть в таком случае равна времени, прошедшему с момента начала расширения, то есть <a href="/wiki/%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F" title="Вселенная">возрасту Вселенной</a>.
+</p><p>Значение <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117753614"><span class="ts-math"><i>Н</i><sub>0</sub></span> определяется по наблюдениям галактик, расстояния до которых измерены без помощи красного смещения (прежде всего, по ярчайшим <a href="/wiki/%D0%97%D0%B2%D0%B5%D0%B7%D0%B4%D0%B0" title="Звезда">звёздам</a> или <a href="/wiki/%D0%A6%D0%B5%D1%84%D0%B5%D0%B8%D0%B4%D0%B0" class="mw-redirect" title="Цефеида">цефеидам</a>). Большинство независимых оценок <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117753614"><span class="ts-math"><i>Н</i><sub>0</sub></span> дают для этого параметра значение <span class="nowrap">66—78 км/с</span> на <a href="/wiki/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D0%BA" class="mw-redirect" title="Мегапарсек">мегапарсек</a>. Это означает, что галактики, находящиеся на расстоянии <span class="nowrap">100 <a href="/wiki/%D0%9C%D0%B5%D0%B3%D0%B0%D0%BF%D0%B0%D1%80%D1%81%D0%B5%D0%BA" class="mw-redirect" title="Мегапарсек">мегапарсек</a></span>, удаляются от нас со скоростью <span class="nowrap">6600—7800 км/с</span>. В настоящее время (2019 год) значения, полученные путём вычисления расстояний до галактик по светимости наблюдающихся в них <a href="/wiki/%D0%A6%D0%B5%D1%84%D0%B5%D0%B8%D0%B4%D1%8B" title="Цефеиды">цефеид</a> на <a href="/wiki/%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF)" title="Хаббл (телескоп)">космическом телескопе Хаббла</a>, дают оценку 74,03&#160;±&#160;1,42&#160;(км/c)/Мпк<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>, а значения, полученные с помощью измерения параметров реликтового излучения на <a href="/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%BA_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D1%81%D0%B5%D1%80%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F)" title="Планк (космическая обсерватория)">космической обсерватории «Планк»</a>, показали значение 67,4&#160;±&#160;0,5&#160;(км/c)/Мпк<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> по состоянию на 2018 год.
+</p><p>Проблема оценки <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r117753614"><span class="ts-math"><i>Н</i><sub>0</sub></span> осложняется тем, что, помимо космологических скоростей, обусловленных расширением Вселенной, галактики ещё обладают собственными (пекулярными) скоростями, которые могут составлять несколько сотен км/с (для членов массивных <a href="/wiki/%D0%A1%D0%BA%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA" title="Скопление галактик">скоплений галактик</a>&#160;— более <span class="nowrap">1000 км/с</span>). Это приводит к тому, что закон Хаббла плохо выполняется или совсем не выполняется для объектов, находящихся на расстоянии ближе 10—15&#160;млн <a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B3%D0%BE%D0%B4" title="Световой год">св. лет</a>, то есть как раз для тех галактик, расстояния до которых наиболее надёжно определяются без красного смещения.
+</p><p>С другой стороны, если подставить в формулу красного смещения <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle z=H_{0}t}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>z</mi>
+        <mo>=</mo>
+        <msub>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mi>t</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle z=H_{0}t}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6362eb69ca3122a3279c822d022326bb1ba2a74d" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:8.012ex; height:2.509ex;" alt="{\displaystyle z=H_{0}t}"></span> время, равное одному <a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B8%D0%BE%D0%B4_%D0%BA%D0%BE%D0%BB%D0%B5%D0%B1%D0%B0%D0%BD%D0%B8%D1%8F" class="mw-redirect" title="Период колебания">периоду колебания</a> <a href="/wiki/%D0%A4%D0%BE%D1%82%D0%BE%D0%BD" title="Фотон">фотона</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle T=1/\nu ,}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>T</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo>/</mo>
+        </mrow>
+        <mi>&#x03BD;<!-- ν --></mi>
+        <mo>,</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle T=1/\nu ,}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/01b9a2b95a7ec2cb35a9f8bc96b34de92d3a3019" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.838ex; width:8.939ex; height:2.843ex;" alt="{\displaystyle T=1/\nu ,}"></span> то получим, что постоянная Хаббла&#160;— это величина, на которую уменьшается <a href="/wiki/%D0%A7%D0%B0%D1%81%D1%82%D0%BE%D1%82%D0%B0" title="Частота">частота</a> фотона за один период колебания вне зависимости от <a href="/wiki/%D0%94%D0%BB%D0%B8%D0%BD%D0%B0_%D0%B2%D0%BE%D0%BB%D0%BD%D1%8B" title="Длина волны">длины волны</a>, и чтобы определить, насколько уменьшилась частота фотона, надо постоянную Хаббла умножить на число совершённых колебаний: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML"  alttext="{\displaystyle \nu _{n}=nH_{0}.}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>&#x03BD;<!-- ν --></mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo>=</mo>
+        <mi>n</mi>
+        <msub>
+          <mi>H</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>.</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle \nu _{n}=nH_{0}.}</annotation>
+  </semantics>
+</math></span><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b38badf4ebb575406290ac8edbada9b366bf952" class="mwe-math-fallback-image-inline mw-invert" aria-hidden="true" style="vertical-align: -0.671ex; width:10.492ex; height:2.509ex;" alt="{\displaystyle \nu _{n}=nH_{0}.}"></span>
+</p>
+<h2><span id=".D0.90.D0.BD.D0.B0.D0.BB.D0.BE.D0.B3.D0.B8_.D0.B7.D0.B0.D0.BA.D0.BE.D0.BD.D0.B0_.D0.A5.D0.B0.D0.B1.D0.B1.D0.BB.D0.B0_.D0.B2_.D0.B4.D1.80.D1.83.D0.B3.D0.B8.D1.85_.D0.BE.D0.B1.D0.BB.D0.B0.D1.81.D1.82.D1.8F.D1.85_.D0.B0.D1.81.D1.82.D1.80.D0.BE.D1.84.D0.B8.D0.B7.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Аналоги_закона_Хаббла_в_других_областях_астрофизики">Аналоги закона Хаббла в других областях астрофизики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;veaction=edit&amp;section=4" title="Редактировать раздел «Аналоги закона Хаббла в других областях астрофизики»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;action=edit&amp;section=4" title="Редактировать код раздела «Аналоги закона Хаббла в других областях астрофизики»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Линейный закон роста скорости расширения с расстоянием наблюдается также для многих <a href="/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0%D1%80%D0%BD%D0%B0%D1%8F_%D1%82%D1%83%D0%BC%D0%B0%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Планетарная туманность">планетарных туманностей</a> (так называемый Hubble-like flow)<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>.
+</p>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;veaction=edit&amp;section=5" title="Редактировать раздел «См. также»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;action=edit&amp;section=5" title="Редактировать код раздела «См. также»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%9E%D0%B1%D1%8A%D1%91%D0%BC_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0" title="Объём Хаббла">Объём Хаббла</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;veaction=edit&amp;section=6" title="Редактировать раздел «Примечания»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;action=edit&amp;section=6" title="Редактировать код раздела «Примечания»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text">В 2018 году на Генеральной ассамблее <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7" title="Международный астрономический союз">Международного астрономического союза</a> была принята резолюция, рекомендующая использовать название «закон Хаббла — Леметра». Однако эта рекомендация вызвала ряд протестов как «сомнительная с исторической, научной и философской точек зрения», см. <i>Cormac O'Raifeartaigh, Michael O'Keeffe.</i> <a rel="nofollow" class="external text" href="https://arxiv.org/abs/1909.07731">Redshifts versus paradigm shifts; against renaming Hubble's Law</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20220208123838/https://arxiv.org/abs/1909.07731">Архивная копия</a> от 8 февраля 2022 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a></span>
+</li>
+<li id="cite_note-zasopostnov_rubakov_vainberg-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-zasopostnov_rubakov_vainberg_2-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-zasopostnov_rubakov_vainberg_2-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text">
+<ul><li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>А.&#160;В. Засов., К.&#160;А. Постнов.</i>&#32;<a rel="nofollow" class="external text" href="https://archive.org/details/isbn_5850991697">Общая астрофизика</a>.&#160;— Фрязино: Век 2, 2006.&#160;— С.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/isbn_5850991697/page/n419">421</a>—432.&#160;— 496&#160;с.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/5850991697" class="internal mw-magiclink-isbn">ISBN 5-85099-169-7</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Д.&#160;С. Горбунов, В.&#160;А. Рубаков.</i>&#32;Введение в теорию ранней Вселенной: Теория горячего Большого взрыва.&#160;— Москва: ЛКИ, 2008.&#160;— С.&#160;45—80.&#160;— 552&#160;с.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785382006574" class="internal mw-magiclink-isbn">ISBN 978-5-382-00657-4</a>.</span></li>
+<li><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Стивен Вайнберг.</i>&#32;<a rel="nofollow" class="external text" href="https://archive.org/details/isbn_9785453000401">Космология</a>.&#160;— Москва: УРСС, 2013.&#160;— С.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/isbn_9785453000401/page/n20">21</a>—81.&#160;— 608&#160;с.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9785453000401" class="internal mw-magiclink-isbn">ISBN 978-5-453-00040-1</a>.</span></li></ul>
+</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.astronet.ru/db/msg/1188287">Хаббла закон</a>&#160;/ <a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%98%D0%B3%D0%BE%D1%80%D1%8C_%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Новиков, Игорь Дмитриевич">Новиков И. Д.</a>&#160;//&#32;<a rel="nofollow" class="external text" href="http://www.astronet.ru/db/FK86/">Физика космоса: Маленькая энциклопедия</a>&#160;: [<span title="архивировано из первоисточника"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20220401053637/http://www.astronet.ru/db/FK86/">арх.</a> 1 апреля 2022</span>]&#160;/ Редкол.: <a href="/wiki/%D0%A1%D1%8E%D0%BD%D1%8F%D0%B5%D0%B2,_%D0%A0%D0%B0%D1%88%D0%B8%D0%B4_%D0%90%D0%BB%D0%B8%D0%B5%D0%B2%D0%B8%D1%87" title="Сюняев, Рашид Алиевич">Р. А. Сюняев</a> (Гл. ред.) и др.&#160;— 2-е изд.&#160;— <abbr title="Москва">М.</abbr>&#160;: <a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_(%D0%B8%D0%B7%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE)" class="mw-redirect" title="Советская энциклопедия (издательство)">Советская энциклопедия</a>, 1986.&#160;— С.&#160;709.&#160;— 783&#160;с.&#160;— <span class="nowrap">70&#160;000 экз.</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">[dic.academic.ru/dic.nsf/enc_physics/5158/ХАББЛА Хаббла закон] // Физическая энциклопедия. В 5 томах.</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.nature.com/news/2011/110627/full/news.2011.385.html">Edwin Hubble in translation trouble</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20170321202918/http://www.nature.com/news/2011/110627/full/news.2011.385.html">Архивная копия</a> от 21 марта 2017 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Nature News.</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><i>Dan Scolnic, Lucas M. Macri, Wenlong Yuan, Stefano Casertano, Adam G. Riess.</i>&#32;Large Magellanic Cloud Cepheid Standards Provide a 1&#160;% Foundation for the Determination of the Hubble Constant and Stronger Evidence for Physics Beyond ΛCDM&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>.&#160;— 2019-03-18.&#160;— <a href="/wiki/Doi" class="mw-redirect" title="Doi">doi</a>:<a rel="nofollow" class="external text" href="https://dx.doi.org/10.3847%2F1538-4357%2Fab1422">10.3847/1538-4357/ab1422</a>.&#160;— <span class="noprint"><a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:&#160;<a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/abs/2019ApJ...876...85R">2019ApJ...876...85R</a></span>.&#160;— <a href="/wiki/ArXiv.org" title="ArXiv.org">arXiv</a>:<a href="https://arxiv.org/abs/1903.07603" class="extiw" title="arxiv:1903.07603">1903.07603</a>.</span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><i>M. Lilley, P. B. Lilje, M. Liguori, A. Lewis, F. Levrier.</i>&#32;Planck 2018 results. VI. Cosmological parameters&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>.&#160;— 2018-07-17.&#160;— <a href="/wiki/ArXiv.org" title="ArXiv.org">arXiv</a>:<a href="https://arxiv.org/abs/1807.06209" class="extiw" title="arxiv:1807.06209">1807.06209</a>.</span></span>
+</li>
+<li id="cite_note-efremov-8"><span class="mw-cite-backlink"><a href="#cite_ref-efremov_8-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Ю. Н. Ефремов.</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://www.astronet.ru/db/msg/1198709">Постоянная Хаббла</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<a href="/wiki/%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%B5%D1%82" title="Астронет">Астронет</a>.&#32;Дата обращения: 29 октября 2009.&#32;<a rel="nofollow" class="external text" href="https://www.webcitation.org/60r7gd7of?url=http://www.astronet.ru/db/msg/1198709">Архивировано</a> 11 августа 2011 года.</span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><i>Dan Scolnic, Lucas M. Macri, Wenlong Yuan, Stefano Casertano, Adam G. Riess.</i>&#32;<a rel="nofollow" class="external text" href="https://arxiv.org/abs/1903.07603v2">Large Magellanic Cloud Cepheid Standards Provide a 1&#160;% Foundation for the Determination of the Hubble Constant and Stronger Evidence for Physics Beyond ΛCDM</a>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>.&#160;— 2019-03-18.&#160;— <a href="/wiki/Doi" class="mw-redirect" title="Doi">doi</a>:<a rel="nofollow" class="external text" href="https://dx.doi.org/10.3847%2F1538-4357%2Fab1422">10.3847/1538-4357/ab1422</a>.&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190714185332/https://arxiv.org/abs/1903.07603v2">Архивировано</a> 14&#160;июля 2019&#160;года.</small></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><i>M. Lilley, P. B. Lilje, M. Liguori, A. Lewis, F. Levrier.</i>&#32;<a rel="nofollow" class="external text" href="https://arxiv.org/abs/1807.06209v1">Planck 2018 results. VI. Cosmological parameters</a>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>.&#160;— 2018-07-17.&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190426111023/https://arxiv.org/abs/1807.06209v1">Архивировано</a> 26&#160;апреля 2019&#160;года.</small></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://adsabs.harvard.edu/full/2004ASPC..313..148C">Corradi, R. L. M., Multiple, Coeval and Hubble-Like Bipolar Outflows</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 10 ноября 2014.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191224095807/http://adsabs.harvard.edu/full/2004ASPC..313..148C">Архивировано</a> 24 декабря 2019 года.</span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://paperity.org/p/39101458/the-expansion-proper-motions-of-the-planetary-nebula-ngc-6302-from-hubble-space-telescope">C. Szyszka et al., The expansion proper motions of the planetary nebula NGC 6302 from Hubble Space Telescope imaging</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 23 июня 2020.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20191224095821/https://paperity.org/p/39101458/the-expansion-proper-motions-of-the-planetary-nebula-ngc-6302-from-hubble-space-telescope">Архивировано</a> 24 декабря 2019 года.</span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://books.google.ru/books?id=3dpaBzRbanMC&amp;pg=PA196&amp;lpg=PA196&amp;dq=planetary+nebulae+hubble+like+law&amp;source=bl&amp;ots=rAInnC5bC0&amp;sig=2kM7TjusU46W-XG-Uiozwb7ZA0s&amp;hl=ru&amp;sa=X&amp;ei=L09gVNq3L4isOvyegZgJ&amp;ved=0CF0Q6AEwCw#v=onepage&amp;q=planetary%20nebulae%20hubble%20like%20law&amp;f=false">Planetary Nebulae in Our Galaxy and Beyond</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Дата обращения: 4 октября 2017.&#32;<a rel="nofollow" class="external text" href="https://web.archive.org/web/20141110091746/http://books.google.ru/books?id=3dpaBzRbanMC&amp;pg=PA196&amp;lpg=PA196&amp;dq=planetary+nebulae+hubble+like+law&amp;source=bl&amp;ots=rAInnC5bC0&amp;sig=2kM7TjusU46W-XG-Uiozwb7ZA0s&amp;hl=ru&amp;sa=X&amp;ei=L09gVNq3L4isOvyegZgJ&amp;ved=0CF0Q6AEwCw#v=onepage&amp;q=planetary%20nebulae%20hubble%20like%20law&amp;f=false">Архивировано</a> 10 ноября 2014 года.</span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;veaction=edit&amp;section=7" title="Редактировать раздел «Ссылки»" class="mw-editsection-visualeditor"><span>править</span></a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;action=edit&amp;section=7" title="Редактировать код раздела «Ссылки»"><span>править код</span></a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><span class="citation"><i>Edwin Hubble.</i>&#32;<a rel="nofollow" class="external text" href="https://www.pnas.org/content/pnas/15/3/168.full.pdf">A relation between distance and radial velocity among extra-galactic nebulae</a>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>&#160;// Proc. N. A. S..&#160;— 1929.&#160;— Vol.&#160;15.&#160;— P.&#160;168—173.</span>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><i>G.A. Tammann</i>. <a rel="nofollow" class="external text" href="https://arxiv.org/abs/astro-ph/0208176/">A Retro- and Pro-Spective Note</a>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><i>G.A. Tammann</i>. <a rel="nofollow" class="external text" href="https://arxiv.org/abs/astro-ph/0512584/">The Ups and Downs of the Hubble Constant</a>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></li>
+<li><i>С.&#160;Б.&#160;Попов, А.&#160;В.&#160;Топоренский</i>. <a rel="nofollow" class="external text" href="http://www.astronet.ru/db/msg/1307314">Не боги расширение вселенной наблюдают</a></li>
+<li><i>С.&#160;Б.&#160;Попов, А.&#160;В.&#160;Топоренский</i>. <a rel="nofollow" class="external text" href="http://www.modcos.com/articles.php?id=164&amp;idcom=382">За горизонтом вселенских событий</a></li>
+<li><span class="citation"><i>Adam G. Riess и др.</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://arxiv.org/abs/0905.0695">A Redetermination of the Hubble Constant with the Hubble Space Telescope from a Differential Distance Ladder</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.</span></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Ссылки_на_внешние_ресурсы" data-name="External links" style="padding-top:1px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="display:none"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:External_links" title="Перейти к шаблону «External links»"><img alt="Перейти к шаблону «External links»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;</span><div id="Ссылки_на_внешние_ресурсы" style="font-size:114%;margin:0 5em">Ссылки на внешние ресурсы</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;&#160;<span typeof="mw:File"><a href="https://www.wikidata.org/wiki/Q179916#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></span></div>&#160;&#160;Тематические сайты</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://ncatlab.org/nlab/show/Hubble&#39;s%20law">nLab</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Словари и энциклопедии</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="external text" href="https://wikidata-externalid-url.toolforge.org/?p=8313&amp;url_prefix=https://denstoredanske.lex.dk/&amp;id=Hubbles_lov">Большая датская</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.enciclopedia.cat/ec-gec-0033113.xml">Большая каталанская</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.zgbk.com/ecph/words?SiteID=1&amp;ID=179837">Большая китайская</a></li>
+<li><a rel="nofollow" class="external text" href="https://old.bigenc.ru/text/4727194">Большая российская (старая версия)</a></li>
+<li><a rel="nofollow" class="external text" href="https://bigenc.ru/c/zakon-khabbla-f56c0e">Большая российская (научно-образовательный портал)</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.krugosvet.ru/enc/nauka_i_tehnika/fizika/HABBLA_ZAKON.html">Кругосвет</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.britannica.com/topic/Hubbles-law">Britannica (онлайн)</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Космология" data-name="Космология"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2" style="text-align:center;"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><span class="noprint" typeof="mw:File"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Перейти к шаблону «Космология»"><img alt="Перейти к шаблону «Космология»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a></span>&#160;</span><div id="Космология" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Космология">Космология</a></div></th></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1px">Базовые понятия и объекты</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F" title="Вселенная">Вселенная</a>
+<ul><li><a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%B3%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0" title="Метагалактика">Наблюдаемая Вселенная</a></li></ul></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5_%D1%81%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5" title="Красное смещение">Красное смещение</a>
+<ul><li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B5_%D1%81%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%B5" title="Космологическое красное смещение">космологическое</a></li></ul></li>
+<li><a href="/wiki/%D0%A0%D0%B5%D0%BB%D0%B8%D0%BA%D1%82%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" title="Реликтовое излучение">Реликтовое излучение</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%BB%D0%BD%D1%8B" title="Гравитационные волны">Гравитационные волны</a></li>
+<li><a href="/wiki/%D0%A0%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9" title="Расширение Вселенной">Расширение Вселенной</a>
+<ul><li><a href="/wiki/%D0%A3%D1%81%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%B8%D0%B5_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9" title="Ускоренное расширение Вселенной">ускоренное</a></li></ul></li>
+<li><a href="/wiki/%D0%A1%D0%BA%D1%80%D1%8B%D1%82%D0%B0%D1%8F_%D0%BC%D0%B0%D1%81%D1%81%D0%B0" title="Скрытая масса">Скрытая масса</a>
+<ul><li><a href="/wiki/%D0%A2%D1%91%D0%BC%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D1%8F" title="Тёмная материя">Тёмная материя</a></li>
+<li><a href="/wiki/%D0%A2%D1%91%D0%BC%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F" title="Тёмная энергия">Тёмная энергия</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1px"><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9" title="История Вселенной">История Вселенной</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2" title="Большой взрыв">Большой взрыв</a>
+<ul><li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BE%D1%82%D1%81%D0%BA%D0%BE%D0%BA" title="Большой отскок">Большой отскок</a></li>
+<li><a href="/wiki/%D0%A5%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B3%D0%BE_%D0%B2%D0%B7%D1%80%D1%8B%D0%B2%D0%B0" title="Хронология Большого взрыва">Хронология Большого взрыва</a></li></ul></li>
+<li><a href="/wiki/%D0%98%D0%BD%D1%84%D0%BB%D1%8F%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9" title="Инфляционная модель Вселенной">Инфляция</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B8%D1%87%D0%BD%D1%8B%D0%B9_%D0%BD%D1%83%D0%BA%D0%BB%D0%B5%D0%BE%D1%81%D0%B8%D0%BD%D1%82%D0%B5%D0%B7" title="Первичный нуклеосинтез">Первичный нуклеосинтез</a></li>
+<li><a href="/wiki/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B1%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%8F_(%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" class="mw-redirect" title="Рекомбинация (космология)">Рекомбинация</a></li>
+<li><a href="/wiki/%D0%AD%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F_%D0%B3%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA" title="Эволюция галактик">Эволюция галактик</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9" title="Возраст Вселенной">Возраст Вселенной</a></li>
+<li><a href="/wiki/%D0%91%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9" title="Будущее Вселенной">Будущее Вселенной</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1px">Структура Вселенной</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9A%D1%80%D1%83%D0%BF%D0%BD%D0%BE%D0%BC%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9" title="Крупномасштабная структура Вселенной">Крупномасштабная структура Вселенной</a>
+<ul><li><a href="/wiki/%D0%A1%D0%B2%D0%B5%D1%80%D1%85%D1%81%D0%BA%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B3%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D0%BA" title="Сверхскопление галактик">Сверхскопление галактик</a></li>
+<li><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%B3%D1%80%D1%83%D0%BF%D0%BF%D0%B0_%D0%BA%D0%B2%D0%B0%D0%B7%D0%B0%D1%80%D0%BE%D0%B2" title="Большая группа квазаров">Большая группа квазаров</a></li>
+<li><a href="/wiki/%D0%93%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B8%D1%82%D1%8C" title="Галактическая нить">Галактическая нить</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BF%D1%83%D1%81%D1%82%D0%BE%D1%82%D1%8B" title="Космические пустоты">Войд</a></li>
+<li><a href="/wiki/%D0%9F%D1%83%D0%B7%D1%8B%D1%80%D1%8C_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0" title="Пузырь Хаббла">Пузырь Хаббла</a></li></ul></li>
+<li><a href="/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9" class="mw-redirect" title="Форма Вселенной">Форма Вселенной</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1px">Теоретические представления</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D1%8F_%D0%BF%D1%80%D0%B5%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9_%D0%BE_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9" title="История развития представлений о Вселенной">История развития представлений о Вселенной</a></li>
+<li><a class="mw-selflink selflink">Закон Хаббла</a></li>
+<li><a href="/wiki/%D0%93%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BD%D0%B5%D1%83%D1%81%D1%82%D0%BE%D0%B9%D1%87%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D1%8C" title="Гравитационная неустойчивость">Гравитационная неустойчивость</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF" title="Космологический принцип">Космологический принцип</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8" title="Космологические модели">Космологические модели</a>
+<ul><li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D0%BD%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C" title="Космологическая сингулярность">Космологическая сингулярность</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_%D0%B4%D0%B5_%D0%A1%D0%B8%D1%82%D1%82%D0%B5%D1%80%D0%B0" title="Модель де Ситтера">Модель де Ситтера</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_%D0%B3%D0%BE%D1%80%D1%8F%D1%87%D0%B5%D0%B9_%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B9" title="Модель горячей Вселенной">Модель горячей Вселенной</a></li>
+<li><a href="/wiki/%D0%92%D1%81%D0%B5%D0%BB%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D0%A4%D1%80%D0%B8%D0%B4%D0%BC%D0%B0%D0%BD%D0%B0" title="Вселенная Фридмана">Вселенная Фридмана</a>
+<ul><li><a href="/wiki/%D0%A1%D0%BE%D0%BF%D1%83%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E%D1%89%D0%B5%D0%B5_%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5" title="Сопутствующее расстояние">Сопутствующее расстояние</a></li>
+<li><a href="/wiki/%D0%9A%D1%80%D0%B8%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C_(%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)" title="Критическая плотность (космология)">Критическая плотность</a></li>
+<li><a href="/wiki/%D0%A3%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%A4%D1%80%D0%B8%D0%B4%D0%BC%D0%B0%D0%BD%D0%B0" title="Уравнение Фридмана">Уравнение Фридмана</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D1%81%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D1%8F" title="Космологическое уравнение состояния">Космологическое уравнение состояния</a></li>
+<li><a href="/wiki/%D0%9C%D0%BE%D0%B4%D0%B5%D0%BB%D1%8C_%D0%9B%D1%8F%D0%BC%D0%B1%D0%B4%D0%B0-CDM" title="Модель Лямбда-CDM">Модель Лямбда-CDM</a></li></ul></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1px">Эксперименты</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%9D%D0%B0%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Наблюдательная космология (страница отсутствует)">Наблюдательная космология</a></li>
+<li><a href="/w/index.php?title=%D0%9E%D0%B1%D0%B7%D0%BE%D1%80_%D0%B3%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_2dF&amp;action=edit&amp;redlink=1" class="new" title="Обзор галактического красного смещения 2dF (страница отсутствует)">2dF</a></li>
+<li><a href="/w/index.php?title=%D0%9E%D0%B1%D0%B7%D0%BE%D1%80_%D0%B3%D0%B0%D0%BB%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BC%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_6dF&amp;action=edit&amp;redlink=1" class="new" title="Обзор галактического красного смещения 6dF (страница отсутствует)">6dF</a></li>
+<li><a href="/w/index.php?title=BOOMERanG&amp;action=edit&amp;redlink=1" class="new" title="BOOMERanG (страница отсутствует)">BOOMERanG</a></li>
+<li><a href="/wiki/COBE" title="COBE">COBE</a></li>
+<li><a href="/wiki/%D0%A1%D0%BB%D0%BE%D0%B0%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%BD%D1%8B%D0%B9_%D0%BE%D0%B1%D0%B7%D0%BE%D1%80" title="Слоановский цифровой небесный обзор">SDSS</a></li>
+<li><a href="/wiki/WMAP" title="WMAP">WMAP</a></li>
+<li><a href="/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%BA_(%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D1%81%D0%B5%D1%80%D0%B2%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F)" title="Планк (космическая обсерватория)">Планк</a></li>
+<li><a href="/wiki/Dark_Energy_Survey" title="Dark Energy Survey">DES</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align:center;"><div><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D1%81%D1%82%D1%80%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%8F" title="Портал:Астрономия">Портал:Астрономия</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw‐web.eqiad.main‐58967dd8df‐vrznc
+Cached time: 20240118070200
+Cache expiry: 2592000
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.231 seconds
+Real time usage: 0.378 seconds
+Preprocessor visited node count: 4202/1000000
+Post‐expand include size: 52031/2097152 bytes
+Template argument size: 8354/2097152 bytes
+Highest expansion depth: 16/100
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 16522/5000000 bytes
+Lua time usage: 0.083/10.000 seconds
+Lua memory usage: 3138745/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  258.588      1 -total
+ 54.74%  141.546      1 Шаблон:Примечания
+ 24.16%   62.484      1 Шаблон:Внешние_ссылки
+ 22.74%   58.802      5 Шаблон:Статья
+ 11.31%   29.237      5 Шаблон:Cite_web
+  9.54%   24.665      2 Шаблон:Main
+  9.52%   24.613      1 Шаблон:Публикация
+  7.73%   19.995      3 Шаблон:Книга
+  3.42%    8.832      7 Шаблон:Math
+  2.57%    6.650      9 Шаблон:±.
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:40052-0!canonical and timestamp 20240118070200 and revision id 127911055. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" width="1" height="1" style="border: none; position: absolute;"></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Закон_Хаббла&amp;oldid=127911055">https://ru.wikipedia.org/w/index.php?title=Закон_Хаббла&amp;oldid=127911055</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D1%81%D0%BC%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" title="Категория:Космология">Космология</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B_%D0%B8_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0" title="Категория:Именные законы и правила">Именные законы и правила</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_no)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink no)">Википедия:Cite web (заменить webcitation-архив: deadlink no)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD+%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD+%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0" title="Просмотреть контентную страницу [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	>
+	<label
+		id="p-variants-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy vector-menu" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;action=edit" title="Править исходный текст этой страницы [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown vector-menu" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			
+		</ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<h3 >Поиск</h3>
+	<form action="/w/index.php" id="searchform" class="vector-search-box-form">
+		<div id="simpleSearch"
+			class="vector-search-box-inner"
+			 data-search-loc="header-navigation">
+			<input class="vector-search-box-input"
+				 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+			>
+			<input type="hidden" name="title" value="Служебная:Поиск">
+			<input id="mw-searchButton"
+				 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+			<input id="searchButton"
+				 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu-portal portal vector-menu" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="mw-portlet mw-portlet-participation vector-menu-portal portal vector-menu" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu-portal portal vector-menu" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;oldid=127911055" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;id=127911055&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-urlshortener" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:UrlShortener&amp;url=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2F%25D0%2597%25D0%25B0%25D0%25BA%25D0%25BE%25D0%25BD_%25D0%25A5%25D0%25B0%25D0%25B1%25D0%25B1%25D0%25BB%25D0%25B0"><span>Получить короткий URL</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q179916" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu-portal portal vector-menu" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal vector-menu" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Hubble%27s_law" hreflang="en"><span>Викисклад</span></a></li>
+		</ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu-portal portal vector-menu" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list">
+			
+			<li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Wet_van_Hubble" title="Wet van Hubble — африкаанс" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D9%82%D8%A7%D9%86%D9%88%D9%86_%D9%87%D8%A7%D8%A8%D9%84" title="قانون هابل — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Llei_de_Hubble" title="Llei de Hubble — астурийский" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Habbl_qanunu" title="Habbl qanunu — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%BB%D0%B0" title="Закон Хабла — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%BD%D0%B0_%D0%A5%D1%8A%D0%B1%D1%8A%D0%BB" title="Закон на Хъбъл — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%B9%E0%A6%BE%E0%A6%AC%E0%A6%B2%E0%A7%87%E0%A6%B0_%E0%A6%B8%E0%A7%82%E0%A6%A4%E0%A7%8D%E0%A6%B0" title="হাবলের সূত্র — бенгальский" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-bs mw-list-item"><a href="https://bs.wikipedia.org/wiki/Hubbleov_zakon" title="Hubbleov zakon — боснийский" lang="bs" hreflang="bs" class="interlanguage-link-target"><span>Bosanski</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Llei_de_Hubble-Lema%C3%AEtre" title="Llei de Hubble-Lemaître — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB_%D1%81%D0%B0%D0%BA%D0%BA%D1%83%D0%BD%C4%95" title="Хаббл саккунĕ — чувашский" lang="cv" hreflang="cv" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Hubbles_lov" title="Hubbles lov — датский" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%9D%CF%8C%CE%BC%CE%BF%CF%82_%CF%84%CE%BF%CF%85_%CE%A7%CE%B1%CE%BC%CF%80%CE%BB" title="Νόμος του Χαμπλ — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Hubble%27s_law" title="Hubble&#039;s law — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Le%C4%9Do_de_Hubble" title="Leĝo de Hubble — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Ley_de_Hubble-Lema%C3%AEtre" title="Ley de Hubble-Lemaître — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Hubble%27i_seadus" title="Hubble&#039;i seadus — эстонский" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Hubbleren_legea" title="Hubbleren legea — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%82%D8%A7%D9%86%D9%88%D9%86_%D9%87%D8%A7%D8%A8%D9%84" title="قانون هابل — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Hubblen_laki" title="Hubblen laki — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Loi_de_Hubble-Lema%C3%AEtre" title="Loi de Hubble-Lemaître — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Lei_de_Hubble" title="Lei de Hubble — галисийский" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A7_%D7%94%D7%90%D7%91%D7%9C" title="חוק האבל — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Hubbleov_zakon" title="Hubbleov zakon — хорватский" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Hubble%E2%80%93Lema%C3%AEtre-t%C3%B6rv%C3%A9ny" title="Hubble–Lemaître-törvény — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%A2%D5%AC%D5%AB_%D6%85%D6%80%D5%A5%D5%B6%D6%84" title="Հաբլի օրենք — армянский" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Hukum_Hubble" title="Hukum Hubble — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/L%C3%B6gm%C3%A1l_Hubbles" title="Lögmál Hubbles — исландский" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Legge_di_Hubble" title="Legge di Hubble — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%83%96%E3%83%AB%E2%80%93%E3%83%AB%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB%E3%81%AE%E6%B3%95%E5%89%87" title="ハッブル–ルメートルの法則 — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%B0%E1%83%90%E1%83%91%E1%83%9A%E1%83%98%E1%83%A1_%E1%83%99%E1%83%90%E1%83%9C%E1%83%9D%E1%83%9C%E1%83%98" title="ჰაბლის კანონი — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB_%D0%B7%D0%B0%D2%A3%D1%8B" title="Хаббл заңы — казахский" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-kn mw-list-item"><a href="https://kn.wikipedia.org/wiki/%E0%B2%B9%E0%B2%AC%E0%B2%B2%E0%B3%8D%E0%B2%B2%E0%B2%A8_%E0%B2%A8%E0%B2%BF%E0%B2%AF%E0%B2%AE" title="ಹಬಲ್ಲನ ನಿಯಮ — каннада" lang="kn" hreflang="kn" class="interlanguage-link-target"><span>ಕನ್ನಡ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%ED%97%88%EB%B8%94-%EB%A5%B4%EB%A9%94%ED%8A%B8%EB%A5%B4_%EB%B2%95%EC%B9%99" title="허블-르메트르 법칙 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Hablo_d%C4%97snis" title="Hablo dėsnis — литовский" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Habla_likums" title="Habla likums — латышский" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B9%E0%B4%AC%E0%B5%8D%E0%B4%AC%E0%B4%BF%E0%B5%BE_%E0%B4%A8%E0%B4%BF%E0%B4%AF%E0%B4%AE%E0%B4%82" title="ഹബ്ബിൾ നിയമം — малаялам" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Hukum_Hubble" title="Hukum Hubble — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Wet_van_Hubble-Lema%C3%AEtre" title="Wet van Hubble-Lemaître — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Hubbles_lov" title="Hubbles lov — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Lei_de_Hubble" title="Lei de Hubble — окситанский" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Prawo_Hubble%E2%80%99a-Lema%C3%AEtre%E2%80%99a" title="Prawo Hubble’a-Lemaître’a — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%DB%81%D8%A8%D9%84_%D8%AF%D8%A7_%D9%82%D9%86%D9%88%D9%86" title="ہبل دا قنون — Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Lei_de_Hubble" title="Lei de Hubble — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Legea_lui_Hubble" title="Legea lui Hubble — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-scn mw-list-item"><a href="https://scn.wikipedia.org/wiki/Liggi_di_Hubble" title="Liggi di Hubble — сицилийский" lang="scn" hreflang="scn" class="interlanguage-link-target"><span>Sicilianu</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Hablov_zakon" title="Hablov zakon — сербскохорватский" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Hubble%27s_law" title="Hubble&#039;s law — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Hubblov_z%C3%A1kon" title="Hubblov zákon — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Hubblov_zakon" title="Hubblov zakon — словенский" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Hablov_zakon" title="Hablov zakon — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Hubbles_lag" title="Hubbles lag — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%B9%E0%AE%AA%E0%AE%BF%E0%AE%B3%E0%AF%8D_%E0%AE%B5%E0%AE%BF%E0%AE%A4%E0%AE%BF" title="ஹபிள் விதி — тамильский" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%8E%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AE%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%A5" title="กฎของฮับเบิล — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Hubble_kanunu" title="Hubble kanunu — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/Habbl_qanun%C4%B1" title="Habbl qanunı — татарский" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%93%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0_%E2%80%94_%D0%9B%D0%B5%D0%BC%D0%B5%D1%82%D1%80%D0%B0" title="Закон Габбла — Леметра — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-ur mw-list-item"><a href="https://ur.wikipedia.org/wiki/%D9%82%D8%A7%D9%86%D9%88%D9%86_%DB%81%D8%A8%D9%84" title="قانون ہبل — урду" lang="ur" hreflang="ur" class="interlanguage-link-target"><span>اردو</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%8Bnh_lu%E1%BA%ADt_Hubble" title="Định luật Hubble — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-vls mw-list-item"><a href="https://vls.wikipedia.org/wiki/Wet_van_Hubble" title="Wet van Hubble — West Flemish" lang="vls" hreflang="vls" class="interlanguage-link-target"><span>West-Vlams</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E5%93%88%E5%8B%83%E5%AE%9A%E5%BE%8B" title="哈勃定律 — у" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%93%88%E5%8B%83%E2%80%93%E5%8B%92%E6%A2%85%E7%89%B9%E5%AE%9A%E5%BE%8B" title="哈勃–勒梅特定律 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%93%88%E5%8B%83%E5%AE%9A%E5%BE%8B" title="哈勃定律 — кантонский" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li>
+		</ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q179916#sitelinks-wikipedia" title="Править ссылки на другие языки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 16 января 2023 в 14:52.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/deed.ru">лицензии Creative Commons «С указанием авторства — С сохранением условий» (CC BY-SA)</a><a rel="license" href="//creativecommons.org/licenses/by-sa/4.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org/ru/">Фонд Викимедиа (Wikimedia Foundation, Inc.)</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-wm-codeofconduct"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Кодекс поведения</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Заявление о куки</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgHostname":"mw1480","wgBackendResponseTime":146,"wgPageParseReport":{"limitreport":{"cputime":"0.231","walltime":"0.378","ppvisitednodes":{"value":4202,"limit":1000000},"postexpandincludesize":{"value":52031,"limit":2097152},"templateargumentsize":{"value":8354,"limit":2097152},"expansiondepth":{"value":16,"limit":100},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":16522,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  258.588      1 -total"," 54.74%  141.546      1 Шаблон:Примечания"," 24.16%   62.484      1 Шаблон:Внешние_ссылки"," 22.74%   58.802      5 Шаблон:Статья"," 11.31%   29.237      5 Шаблон:Cite_web","  9.54%   24.665      2 Шаблон:Main","  9.52%   24.613      1 Шаблон:Публикация","  7.73%   19.995      3 Шаблон:Книга","  3.42%    8.832      7 Шаблон:Math","  2.57%    6.650      9 Шаблон:±."]},"scribunto":{"limitreport-timeusage":{"value":"0.083","limit":"10.000"},"limitreport-memusage":{"value":3138745,"limit":52428800}},"cachereport":{"origin":"mw-web.eqiad.main-58967dd8df-vrznc","timestamp":"20240118070200","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0417\u0430\u043a\u043e\u043d \u0425\u0430\u0431\u0431\u043b\u0430","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD_%D0%A5%D0%B0%D0%B1%D0%B1%D0%BB%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q179916","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q179916","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-04-23T13:35:58Z","dateModified":"2023-01-16T14:52:53Z","headline":"\u0437\u0430\u043a\u043e\u043d, \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u044e\u0449\u0438\u0439 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0412\u0441\u0435\u043b\u0435\u043d\u043d\u043e\u0439"}</script>
+</body>
+</html>
